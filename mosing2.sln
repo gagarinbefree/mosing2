@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mosing2", "mosing2\mosing2.csproj", "{58631A76-0A08-4585-BCB6-537A6D02DC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58631A76-0A08-4585-BCB6-537A6D02DC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58631A76-0A08-4585-BCB6-537A6D02DC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58631A76-0A08-4585-BCB6-537A6D02DC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58631A76-0A08-4585-BCB6-537A6D02DC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5917C2C-6ECD-4597-BB2F-B49DA43D72FC}
+	EndGlobalSection
+EndGlobal
