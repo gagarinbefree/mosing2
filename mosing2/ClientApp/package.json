@@ -22,7 +22,7 @@
 		"redux-thunk": "^2.3.0",
 		"typescript": "3.5.3",
 		"css-loader": "^3.2.0",
-		"immer": "4.0.0",
+		"immer": "9.0.6",
 		"xml-js": "1.6.11",
 		"react-select": "3.0.4",
 		"gh-pages": "2.1.1"
